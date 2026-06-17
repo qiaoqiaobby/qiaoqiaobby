@@ -14,23 +14,23 @@
 
 <br>
 
-## ⚡ `whoami`
+<table align="center">
+<tr><td>
 
-```typescript
-const qiao = {
-    base: "Beijing, China 🇨🇳",
-    roles: ["Frontend Developer", "Aviation Weather Enthusiast", "Data Designer"],
-    domains: ["Aviation Meteorology", "Geospatial AI", "Data Visualization"],
-    stack: {
-        frontend: ["TypeScript", "React", "Next.js", "Vue", "Astro"],
-        backend: ["Python", "Node.js"],
-        design: ["Figma", "Tailwind CSS"],
-        data: ["ECMWF", "GRIB2", "GeoJSON", "METAR/TAF"]
-    },
-    currently: "Building aviation weather tools & flight data platforms",
-    motto: "Connect the sky to the screen ☁️"
-};
-```
+**`📍`** Beijing, China 🇨🇳 &nbsp;&nbsp; **`🛩️`** Frontend Dev · Aviation Weather · Data Design
+
+**`🔭`** Aviation Meteorology &nbsp;·&nbsp; Geospatial AI &nbsp;·&nbsp; Data Visualization
+
+**`⚡`** TypeScript · React · Next.js · Vue · Astro · Python · Node.js · Figma
+
+**`📡`** ECMWF · GRIB2 · GeoJSON · METAR/TAF
+
+**`🚧`** Building aviation weather tools & flight data platforms
+
+*"Connect the sky to the screen ☁️"*
+
+</td></tr>
+</table>
 
 <br>
 
