@@ -100,7 +100,7 @@ Data-driven storytelling
 | 🌤️ | **[ECMWF-OpenDataOnAWS](https://github.com/qiaoqiaobby/ECMWF-OpenDataOnAWS)** | ECMWF weather open data discovery & extraction — probes AWS / ECMWF / Azure / Google mirrors, generates data asset reports, aviation station extraction | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) |
 | 🖼️ | **[svg2img](https://github.com/qiaoqiaobby/svg2img)** | SVG → PNG / JPG / WebP — instant, private, in-browser conversion | ![TypeScript](https://img.shields.io/badge/-TS-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Astro](https://img.shields.io/badge/-Astro-BC52EE?style=flat-square&logo=astro&logoColor=white) ![Vue](https://img.shields.io/badge/-Vue-4FC08D?style=flat-square&logo=vue.js&logoColor=white) |
 | ✈️ | **[JetPhotos-New-Tab](https://github.com/qiaoqiaobby/JetPhotos-New-Tab)** | Beautiful aviation photography in every new browser tab | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) |
-| 🗺️ | **[AiMapTools](https://github.com/qiaoqiaobby/AiMapTools)** | AI-powered geospatial toolkit | ![TypeScript](https://img.shields.io/badge/-TS-3178C6?style=flat-square&logo=typescript&logoColor=white) |
+| 🗺️ | **[AiMapTools](https://aimaptools.com)** | AI-powered geospatial toolkit — live site | ![TypeScript](https://img.shields.io/badge/-TS-3178C6?style=flat-square&logo=typescript&logoColor=white) |
 
 </div>
 
@@ -111,12 +111,6 @@ Data-driven storytelling
 ### 📈 GitHub Analytics
 
 <br>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=qiaoqiaobby&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&icon_color=58a6ff&title_color=58a6ff&text_color=c9d1d9" />
-&nbsp;&nbsp;
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qiaoqiaobby&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
-
-<br><br>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=qiaoqiaobby&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF)](https://git.io/streak-stats)
 
@@ -130,26 +124,14 @@ Data-driven storytelling
 
 <div align="center">
 
-### 🏆 Trophies
-
-<br>
-
-<img src="https://github-profile-trophy.vercel.app/?username=qiaoqiaobby&theme=algolia&no-frame=true&column=7&margin-w=10" />
-
-</div>
-
----
-
-<div align="center">
-
 ### 🐍 Contribution Snake
 
 <br>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/qiaoqiaobby/qiaoqiaobby/blob/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/qiaoqiaobby/qiaoqiaobby/blob/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://github.com/qiaoqiaobby/qiaoqiaobby/blob/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/qiaoqiaobby/qiaoqiaobby/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/qiaoqiaobby/qiaoqiaobby/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/qiaoqiaobby/qiaoqiaobby/output/github-contribution-grid-snake-dark.svg" />
 </picture>
 
 </div>
