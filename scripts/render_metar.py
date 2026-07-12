@@ -1,4 +1,4 @@
-"""拉取 ZBAA METAR（aviationweather.gov 免密钥公开 API），渲染明暗两张 SVG 卡。
+"""拉取 ZUUU METAR（aviationweather.gov 免密钥公开 API），渲染明暗两张 SVG 卡。
 
 用法：python3 scripts/render_metar.py [输出目录，默认 dist]
 失败语义：任何一步失败即以非零码退出且不写文件，workflow 据此保留旧卡
@@ -15,8 +15,8 @@ sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from svgkit import el, svg, text
 from tokens import TOKENS, theme
 
-STATION = "ZBAA"
-STATION_NAME = "BEIJING CAPITAL INTL"
+STATION = "ZUUU"
+STATION_NAME = "CHENGDU SHUANGLIU INTL"
 API = f"https://aviationweather.gov/api/data/metar?ids={STATION}&format=json"
 UA = "qiaoqiaobby-profile-readme (https://github.com/qiaoqiaobby/qiaoqiaobby)"
 W, H = 830, 200

@@ -15,7 +15,7 @@
 <table align="center">
 <tr><td>
 
-**`📍`** Beijing, China &nbsp;·&nbsp; product manager in civil-aviation ATC & aviation weather — building the tools myself
+**`📍`** Chengdu, China &nbsp;·&nbsp; product manager in civil-aviation ATC & aviation weather — building the tools myself
 
 **`🔭`** Air traffic management &nbsp;·&nbsp; aviation meteorology &nbsp;·&nbsp; geospatial visualization
 
@@ -31,15 +31,15 @@
 ### ⚡ Live from the sky
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/qiaoqiaobby/qiaoqiaobby/output/metar-zbaa-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/qiaoqiaobby/qiaoqiaobby/output/metar-zbaa-light.svg">
-  <img alt="Latest ZBAA METAR, decoded and rendered hourly" src="https://raw.githubusercontent.com/qiaoqiaobby/qiaoqiaobby/output/metar-zbaa-dark.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/qiaoqiaobby/qiaoqiaobby/output/metar-zuuu-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/qiaoqiaobby/qiaoqiaobby/output/metar-zuuu-light.svg">
+  <img alt="Latest ZUUU METAR, decoded and rendered hourly" src="https://raw.githubusercontent.com/qiaoqiaobby/qiaoqiaobby/output/metar-zuuu-dark.svg" width="100%">
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/qiaoqiaobby/qiaoqiaobby/output/wind-beijing-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/qiaoqiaobby/qiaoqiaobby/output/wind-beijing-light.svg">
-  <img alt="Beijing 24-hour ECMWF wind and temperature forecast" src="https://raw.githubusercontent.com/qiaoqiaobby/qiaoqiaobby/output/wind-beijing-dark.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/qiaoqiaobby/qiaoqiaobby/output/wind-chengdu-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/qiaoqiaobby/qiaoqiaobby/output/wind-chengdu-light.svg">
+  <img alt="Chengdu 24-hour ECMWF wind and temperature forecast" src="https://raw.githubusercontent.com/qiaoqiaobby/qiaoqiaobby/output/wind-chengdu-dark.svg" width="100%">
 </picture>
 
 <sub>Rendered to SVG by <a href="scripts">scripts/</a> on GitHub Actions, no external image services. METAR: aviationweather.gov, hourly · Forecast: ECMWF IFS via <a href="https://open-meteo.com">Open-Meteo</a> (CC-BY 4.0), daily.</sub>

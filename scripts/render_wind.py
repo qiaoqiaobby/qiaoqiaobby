@@ -1,4 +1,4 @@
-"""拉取北京未来 24 小时 ECMWF IFS 预报（Open-Meteo，CC-BY 4.0），渲染风温 SVG 图。
+"""拉取成都未来 24 小时 ECMWF IFS 预报（Open-Meteo，CC-BY 4.0），渲染风温 SVG 图。
 
 用法：python3 scripts/render_wind.py [输出目录，默认 dist]
 失败语义：任何一步失败即以非零码退出且不写文件，workflow 据此保留旧图。
@@ -18,7 +18,7 @@ from tokens import TOKENS, theme
 
 API = (
     "https://api.open-meteo.com/v1/forecast"
-    "?latitude=39.9042&longitude=116.4074"
+    "?latitude=30.5728&longitude=103.9468"
     "&hourly=temperature_2m,wind_speed_10m,wind_direction_10m"
     "&wind_speed_unit=kn&timezone=Asia%2FShanghai&forecast_days=2"
     "&models=ecmwf_ifs025"
@@ -151,7 +151,7 @@ def build(mode, series):
     parts = [
         el("rect", x=0.5, y=0.5, width=W - 1, height=H - 1,
            rx=TOKENS["radius"], fill=t["bg"], stroke=t["grid"]),
-        text(24, 32, "BEIJING · 24 H FORECAST · BJT (UTC+8)", fill=t["ink"],
+        text(24, 32, "CHENGDU · 24 H FORECAST · CST (UTC+8)", fill=t["ink"],
              font_family=mono, font_size=TOKENS["fs_md"], font_weight="bold",
              letter_spacing=1),
     ]
@@ -190,7 +190,7 @@ def main():
     rendered = {mode: build(mode, series) for mode in ("dark", "light")}
     os.makedirs(out_dir, exist_ok=True)
     for mode, content in rendered.items():
-        path = os.path.join(out_dir, f"wind-beijing-{mode}.svg")
+        path = os.path.join(out_dir, f"wind-chengdu-{mode}.svg")
         with open(path, "w", encoding="utf-8") as f:
             f.write(content)
         print(f"wrote {path}")

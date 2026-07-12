@@ -21,8 +21,8 @@ GitHub 个人主页仓库（README 即门面），**公开可见**：一切入�
 
 | workflow | cron (UTC) | 产物（output 分支） |
 |---|---|---|
-| metar.yml | `17 * * * *` | metar-zbaa-{dark,light}.svg |
-| wind.yml | `13 21 * * *` | wind-beijing-{dark,light}.svg |
+| metar.yml | `17 * * * *` | metar-zuuu-{dark,light}.svg |
+| wind.yml | `13 21 * * *` | wind-chengdu-{dark,light}.svg |
 | contrib-3d.yml | `29 19 * * *` | contrib-3d-{dark,light}.svg |
 | snake.yml | `47 0 * * *` | github-contribution-grid-snake{,-dark}.svg |
 
