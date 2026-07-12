@@ -1,0 +1,12 @@
+# 本地任务产物与过程文件（不入库；与远端 output 分支无关）
+output/
+mid/
+ROADMAP.md
+
+# 渲染中间产物
+dist/
+__pycache__/
+
+# 系统与工具
+.DS_Store
+.playwright-mcp/
