@@ -26,7 +26,6 @@
 </td></tr>
 </table>
 
-<!-- LIVE-SKY:BEGIN metar/wind workflow 首跑成功后解除本注释
 <div align="center">
 
 ### ⚡ Live from the sky
@@ -46,7 +45,6 @@
 <sub>Rendered to SVG by <a href="scripts">scripts/</a> on GitHub Actions, no external image services. METAR: aviationweather.gov, hourly · Forecast: ECMWF IFS via <a href="https://open-meteo.com">Open-Meteo</a> (CC-BY 4.0), daily.</sub>
 
 </div>
-LIVE-SKY:END -->
 
 ---
 
@@ -133,14 +131,12 @@ A curated navigator for GIS and mapping tools — GitHub as CMS, zero database.
 
 ### 📈 Analytics
 
-<!-- CONTRIB-3D:BEGIN contrib-3d workflow 首跑成功后解除本注释
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/qiaoqiaobby/qiaoqiaobby/output/contrib-3d-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/qiaoqiaobby/qiaoqiaobby/output/contrib-3d-light.svg">
   <img alt="3D contribution graph" src="https://raw.githubusercontent.com/qiaoqiaobby/qiaoqiaobby/output/contrib-3d-dark.svg" width="100%">
 </picture>
 <br><br>
-CONTRIB-3D:END -->
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=qiaoqiaobby&theme=github-dark-blue&hide_border=true&background=0D1117&ring=3FB950&fire=3FB950&currStreakLabel=3FB950)](https://git.io/streak-stats)
 
